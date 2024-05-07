@@ -1,4 +1,5 @@
 # Banknote Authenticity Dataset
+The dataset is downloaded from kaggle
 # Overview
 The Banknote Authenticity dataset contains information about various features of banknotes, along with a label indicating whether each banknote is genuine or counterfeit. 
 This dataset is commonly used in machine learning and data mining research to develop and evaluate algorithms for detecting counterfeit currency.
